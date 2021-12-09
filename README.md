@@ -8,6 +8,8 @@ La plupart des consoles ont des qualités spéciales et uniques. Que ce soit le 
 
 ## L'Atari 2600
 
+!(Photo Atari) (media/WI050119_GL_BenchmarkAtari_01.jpeg)
+
 ###### Sortie en 1977
 ###### 40 millions d'unités vendues
 

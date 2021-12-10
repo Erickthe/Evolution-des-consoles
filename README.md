@@ -117,3 +117,4 @@ La plupart des consoles ont des qualités spéciales et uniques. Que ce soit le 
 
 ###### Il y avait une possibilité de jouer avec 4 manettes.
 
+# Merci d'avoir écouté.

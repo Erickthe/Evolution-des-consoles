@@ -45,6 +45,8 @@ La plupart des consoles ont des qualités spéciales et uniques. Que ce soit le 
 
 ###### La NES est la septième console de Nintendo la plus vendue.
 
+![Image_genseis](media/og_img.jpeg)
+
 ## La Sega Genesis
 
 ###### Sortie en 1989
@@ -59,6 +61,8 @@ La plupart des consoles ont des qualités spéciales et uniques. Que ce soit le 
 ###### Le Genesis a 64 KB de RAM, 64 KB de RAM de vidéo et 8 KB de RAM audio.
 
 ###### Il peut afficher jusqu'à 61 couleures immédiatement d'une palette de 512 couleurs.
+
+
 
 ## Le Gameboy
 

@@ -1,4 +1,4 @@
-# Les_meilleures_consoles
+# L'évolution_des_consoles
 
 
 
@@ -92,5 +92,20 @@ La plupart des consoles ont des qualités spéciales et uniques. Que ce soit le 
 ###### La PS2, malgré l'excellent branding de Sony qui disait que cette console serait le futur du gaming, n'était pas ce qu'elle présumait d'être. Mais cela n'a pas empêché les joueurs de l'acheter car c'était la meilleure option pour jouer.
 
 
+## La Xbox 360
 
+###### Sortie en 2005
+###### 85,8 millions d'unités vendues
+
+###### Le processeur de la console est un IBM Power Pc-based CPU qui possède trois 3.2 GHz cores.
+
+###### La console possède aussi un un processeur de graphique ATI.
+
+###### Il possède 512 MB 700MHz MHz GDDR3 de RAM
+
+###### Il y avait aussi une possibilité de détacher le hard drive et de le changer 
+
+###### Un lecteur DVD est inclus dans la console
+
+###### Il y avait une possibilité de jouer avec 4 manettes.
 

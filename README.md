@@ -1,6 +1,6 @@
 # L'évolution_des_consoles
 
-
+![Image_Consoles](media/117-sega-genesis-mini.jpeg)
 
 La plupart des consoles ont des qualités spéciales et uniques. Que ce soit le design, le hardware ou l'expérience qu'elles nous apportent.
 
@@ -8,7 +8,7 @@ La plupart des consoles ont des qualités spéciales et uniques. Que ce soit le 
 
 ## L'Atari 2600
 
-![Image Atari](media/117-sega-genesis-mini.jpeg)
+![Image Atari](media/WI050119_GL_BenchmarkAtari_01.jpeg)
 
 ###### Sortie en 1977
 ###### 40 millions d'unités vendues
@@ -29,6 +29,7 @@ La plupart des consoles ont des qualités spéciales et uniques. Que ce soit le 
 
 ###### Après le déclin du marché de jeux vidéos de 1983, l'Atari perd sa popularité de la companie, qui perdait beaucoup d'argent, a décidé de vendre la companie à Tramiel Technologies.
 
+![Image_Nes](media/nesclassic-1280-2-1492107288259_160w.jpeg)
 
 ## Le Nintendo Entertainment System
 
@@ -62,7 +63,7 @@ La plupart des consoles ont des qualités spéciales et uniques. Que ce soit le 
 
 ###### Il peut afficher jusqu'à 61 couleures immédiatement d'une palette de 512 couleurs.
 
-
+![Image_gameboy](media/dims.jpeg)
 
 ## Le Gameboy
 
@@ -97,7 +98,7 @@ La plupart des consoles ont des qualités spéciales et uniques. Que ce soit le 
 
 ###### La PS2, malgré l'excellent branding de Sony qui disait que cette console serait le futur du gaming, n'était pas ce qu'elle présumait d'être. Mais cela n'a pas empêché les joueurs de l'acheter car c'était la meilleure option pour jouer.
 
-
+![Image_Xbox_360](media/images.jpeg)
 
 ## La Xbox 360
 

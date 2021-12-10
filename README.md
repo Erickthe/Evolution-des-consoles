@@ -98,7 +98,7 @@ La plupart des consoles ont des qualités spéciales et uniques. Que ce soit le 
 
 ###### La PS2, malgré l'excellent branding de Sony qui disait que cette console serait le futur du gaming, n'était pas ce qu'elle présumait d'être. Mais cela n'a pas empêché les joueurs de l'acheter car c'était la meilleure option pour jouer.
 
-![Image_Xbox_360](media/images.jpeg)
+![Image_Xbox_360](media/xbox-360.jpeg)
 
 ## La Xbox 360
 

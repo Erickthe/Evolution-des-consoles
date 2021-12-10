@@ -75,6 +75,8 @@ La plupart des consoles ont des qualités spéciales et uniques. Que ce soit le 
 
 ###### La résolution du game boy est de 160 x 144 pixels et montre 4 nuances de gris. Mais le gameboy original a un problème car il affiche des images vertes.
 
+![Image_Ps2](media/05vgLXPx5gKW27A2dFr3aI5-2.fit_lim.size_1050x.jpg)
+
 ## La playstation 2
 
 ###### Sortie en 2000

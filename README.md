@@ -8,7 +8,7 @@ La plupart des consoles ont des qualités spéciales et uniques. Que ce soit le 
 
 ## L'Atari 2600
 
-!
+![Image Atari](media/Photos github/05vgLXPx5gKW27A2dFr3aI5-2.fit_lim.size_1050x.jpg)
 
 ###### Sortie en 1977
 ###### 40 millions d'unités vendues
@@ -90,6 +90,7 @@ La plupart des consoles ont des qualités spéciales et uniques. Que ce soit le 
 
 
 ###### La PS2, malgré l'excellent branding de Sony qui disait que cette console serait le futur du gaming, n'était pas ce qu'elle présumait d'être. Mais cela n'a pas empêché les joueurs de l'acheter car c'était la meilleure option pour jouer.
+
 
 
 ## La Xbox 360

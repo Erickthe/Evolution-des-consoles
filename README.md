@@ -8,7 +8,7 @@ La plupart des consoles ont des qualités spéciales et uniques. Que ce soit le 
 
 ## L'Atari 2600
 
-!(Photo Atari) (media/WI050119_GL_BenchmarkAtari_01.jpeg)
+!
 
 ###### Sortie en 1977
 ###### 40 millions d'unités vendues
@@ -61,6 +61,36 @@ La plupart des consoles ont des qualités spéciales et uniques. Que ce soit le 
 ###### Il peut afficher jusqu'à 61 couleures immédiatement d'une palette de 512 couleurs.
 
 ## Le Gameboy
+
+###### Sortie en 1989
+###### Nintendo a vendue 118,69 unités de Game Boy et Game Boy color combinés.
+
+###### Le Gameboy possède une Chip nommée "System On Chip" qui loge la plupart des composantes du système comme le CPU.
+
+###### Le processeur est un Sharp SM83 et c<est un mix entre le Z80 et le Intel 8080.
+
+###### La console fonctionne à 4.19 MHz
+
+###### Nintendo a mis 8 KB de RAM dans le game boy
+
+###### La résolution du game boy est de 160 x 144 pixels et montre 4 nuances de gris. Mais le gameboy original a un problème car il affiche des images vertes.
+
+## La playstation 2
+
+###### Sortie en 2000
+###### 158 millions d'unités vendues
+
+###### Le CPU de cette console se nomme Emotion Engine et il fonctionne à environ 294.91 MHz
+
+###### Le GPU de la console est un GPU de 250 nm
+
+###### La Ps2 possède un dvd player
+
+###### Un des meilleurs points forts de la console est la rétrocompatibilité ce qui permettait de jouer à des jeux de Ps1.
+
+
+###### La PS2, malgré l'excellent branding de Sony qui disait que cette console serait le futur du gaming, n'était pas ce qu'elle présumait d'être. Mais cela n'a pas empêché les joueurs de l'acheter car c'était la meilleure option pour jouer.
+
 
 
 
